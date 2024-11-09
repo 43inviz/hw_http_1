@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SysProg\HW_http\bin\Debug\net8.0\HW_http.exe
+C:\Users\User\source\repos\SysProg\HW_http\bin\Debug\net8.0\HW_http.deps.json
+C:\Users\User\source\repos\SysProg\HW_http\bin\Debug\net8.0\HW_http.runtimeconfig.json
+C:\Users\User\source\repos\SysProg\HW_http\bin\Debug\net8.0\HW_http.dll
+C:\Users\User\source\repos\SysProg\HW_http\bin\Debug\net8.0\HW_http.pdb
+C:\Users\User\source\repos\SysProg\HW_http\obj\Debug\net8.0\HW_http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SysProg\HW_http\obj\Debug\net8.0\HW_http.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SysProg\HW_http\obj\Debug\net8.0\HW_http.AssemblyInfo.cs
+C:\Users\User\source\repos\SysProg\HW_http\obj\Debug\net8.0\HW_http.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SysProg\HW_http\obj\Debug\net8.0\HW_http.sourcelink.json
+C:\Users\User\source\repos\SysProg\HW_http\obj\Debug\net8.0\HW_http.dll
+C:\Users\User\source\repos\SysProg\HW_http\obj\Debug\net8.0\refint\HW_http.dll
+C:\Users\User\source\repos\SysProg\HW_http\obj\Debug\net8.0\HW_http.pdb
+C:\Users\User\source\repos\SysProg\HW_http\obj\Debug\net8.0\HW_http.genruntimeconfig.cache
+C:\Users\User\source\repos\SysProg\HW_http\obj\Debug\net8.0\ref\HW_http.dll
